@@ -18,13 +18,13 @@
   "author": "Omrs Mehrotra <omrsmeh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "request": "2.74.0"
+    "request": "^2.88.0"
   },
   "engines": {
     "node": ">=5.6.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "2.5.3"
+    "mocha": "^5.2.0"
   }
 }
